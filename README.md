@@ -1,4 +1,4 @@
-# python_assignment
+# Carpark information and availability project
 Year 1 assignment for PRG1 (python programming). Using the 3 given csv files, I was tasked to make a simple application that allows users to process HDB carpark availabilities. My application provides a display menu with all available features:
 1. Display total number of carparks in 'carpark-information.csv'
 2. Display all basement carparks in 'carpark-information.csv'
