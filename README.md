@@ -7,7 +7,7 @@ Year 1 assignment for PRG1 (python programming). Using the 3 given csv files, I 
 5. Display carparks with no available lots
 6. Display carparks with x% of available lots (provided by user)
 7. Display carparks with x% of available lots (provided by user) with the address
-   
+
 Additional features:
 8. Display all carparks in a location provided by user
 9. Display carparks with the most parking lots and its relevant details
