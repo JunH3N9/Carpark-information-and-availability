@@ -10,3 +10,5 @@ Year 1 assignment for PRG1 (python programming). Using the 3 given csv files, I 
 8. Display all carparks in a location provided by user
 9. Display carparks with the most parking lots and its relevant details
 10. Generate an output file that combines the data of 'carpark-availability.csv' with its corresponding address, sorted by lots available
+
+I truly enjoyed working on this project as I was able to work on a project related to python. It allowed me to gain a better understanding on the language, as well as learn how to be more efficient with my coding.
