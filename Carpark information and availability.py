@@ -1,6 +1,3 @@
-#Teo Jun Heng (S10259970) - P15
-#Added option 8,9,10
-
 filename= 'carpark-information.csv'
 file=open(filename,'r') #accessing the file
 
